@@ -1,0 +1,1 @@
+FROM appwrite/appwrite:latest
